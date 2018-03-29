@@ -7,6 +7,15 @@
     android:layout_height="match_parent"
     tools:context="com.example.a665983.userinput.MainActivity">
 
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:orientation="vertical"
+        android:layout_height="wrap_content"
+        android:layout_alineparentTop="true"
+        android:layout_centerHorizantal"true"
+        android:layout_marginTop="122dp"
+        android:id="@+id/linearLayout2"/>
+
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
